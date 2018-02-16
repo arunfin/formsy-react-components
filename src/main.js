@@ -18,4 +18,5 @@ export const File = FormsyReactComponent(FileComponent);
 export const RadioGroup = FormsyReactComponent(RadioGroupComponent);
 export const Select = FormsyReactComponent(SelectComponent);
 export const Textarea = FormsyReactComponent(TextareaComponent);
+export const FormsyReactComponent = FormsyReactComponent;
 export {Icon, Form, OptionsProvider, Row};
